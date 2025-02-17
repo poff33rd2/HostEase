@@ -5,7 +5,6 @@ Building a real-time ordering system using JavaScript and Python is a great idea
 ### **Frontend (JavaScript)**
 1. **Framework**: 
    - **React.js** (free and open-source) - A popular JavaScript library for building user interfaces.
-   - **Next.js** (free and open-source) - A React framework that supports server-side rendering and static site generation.
 
 2. **Real-Time Updates**:
    - **Socket.IO** (free and open-source) - Enables real-time, bidirectional communication between the client and server.
@@ -73,14 +72,10 @@ Building a real-time ordering system using JavaScript and Python is a great idea
 
 ---
 
-### **Example Workflow**
+### **Workflow**
 1. **Frontend**: Build the UI with React.js and Tailwind CSS.
 2. **Backend**: Create APIs with FastAPI or Flask.
-3. **Database**: Use Firebase Realtime Database or Supabase for real-time data storage.
+3. **Database**: Use Firebase Realtime Database.
 4. **Real-Time Communication**: Implement Socket.IO for real-time updates (e.g., order status changes).
 5. **Hosting**: Deploy the frontend on Vercel and the backend on Render or Heroku.
 6. **Authentication**: Use Firebase Auth or Supabase Auth for user authentication.
-
----
-
-This stack is beginner-friendly, free to start, and scalable as your project grows. Let me know if you need help setting up any part of it!

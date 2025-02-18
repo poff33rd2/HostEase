@@ -1,3 +1,4 @@
+HostEase revolutionizes restaurant service with self-service table ordering and payment technology, streamlining operations for both guests and staff. By reducing table trips, minimizing wait times, and enhancing efficiency, it empowers restaurants to provide a seamless dining experience. Guests can order, request service, adjust meals, and pay—all from their table—ensuring convenience and satisfaction. For kitchens, HostEase integrates real-time order tracking and seamless POS connections, reducing errors and improving workflow. With automated processes, digital payments, and real-time service requests, restaurants can boost revenue, increase staff productivity, and enhance overall guest satisfaction while maintaining smooth, efficient operations.
 
 ### **Frontend (JavaScript)**
 1. **Framework**: 

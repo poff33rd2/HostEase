@@ -1,6 +1,3 @@
-Building a real-time ordering system using JavaScript and Python is a great idea! Below is a **free tech stack** that you can use to get started with your project. This stack is web-based, cloud-based, and supports real-time actions and data storage.
-
----
 
 ### **Frontend (JavaScript)**
 1. **Framework**: 
